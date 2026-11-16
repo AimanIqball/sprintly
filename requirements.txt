@@ -1,0 +1,2 @@
+# Sprintly runs on the Python standard library only (tkinter ships with Python).
+# Nothing to install for normal use.
